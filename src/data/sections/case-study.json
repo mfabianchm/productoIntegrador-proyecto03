@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/img/img-cafeteria/header02.jpeg",
+    "title": "INSTALACIONES DE PRIMERA",
+    "date": "Instalaciones modernas"
+  },
+  {
+    "id": 2,
+    "image": "/img/img-cafeteria/internetcafe.jpeg",
+    "title": "INTERNET ULTRA RÁPIDO",
+    "date": "Fibra óptica"
+  },
+  {
+    "id": 3,
+    "image": "/img/img-cafeteria/climaacondicionado.jpeg",
+    "title": "CLIMA ACONDICIONADO",
+    "date": "Aclimatado"
+  }
+]
