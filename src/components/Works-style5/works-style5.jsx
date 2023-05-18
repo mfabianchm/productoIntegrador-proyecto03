@@ -41,18 +41,15 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
-                  <a className="imago wow">
-                    <img src="/img/img-cafeteria/taza.webp" alt="image" />
-                    <div className="item-img-overlay"></div>
-                  </a>
-                </Link>
+                <a className="imago wow">
+                  <img src="/img/img-cafeteria/taza.webp" alt="image" />
+                  <div className="item-img-overlay"></div>
+                </a>
               </div>
               <div className="cont">
                 <h5>Taza personalizada</h5>
                 <span className="tags main-color custom-font">
-                  <Link href="/works/works-dark">Otros</Link>,
-                  <Link href="/works/works-dark">$250MXN</Link>
+                  <Link href="/">Otros</Link>,<Link href="/">$250MXN</Link>
                 </span>
               </div>
             </div>
@@ -62,18 +59,16 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
-                  <a className="imago wow">
-                    <img src="/img/img-cafeteria/bolsa1kg.webp" alt="image" />
-                    <div className="item-img-overlay"></div>
-                  </a>
-                </Link>
+                <a className="imago wow">
+                  <img src="/img/img-cafeteria/bolsa1kg.webp" alt="image" />
+                  <div className="item-img-overlay"></div>
+                </a>
               </div>
               <div className="cont">
                 <h5>Bolsa de 1kg</h5>
                 <span className="tags main-color custom-font">
-                  <Link href="/works/works-dark">Café a granel</Link>,
-                  <Link href="/works/works-dark">$400 MXN</Link>
+                  <Link href="/">Café a granel</Link>,
+                  <Link href="/">$400 MXN</Link>
                 </span>
               </div>
             </div>
@@ -83,21 +78,19 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
-                  <a className="imago wow">
-                    <img
-                      src="/img/img-cafeteria/bolsaCafe500grs.jpeg"
-                      alt="image"
-                    />
-                    <div className="item-img-overlay"></div>
-                  </a>
-                </Link>
+                <a className="imago wow">
+                  <img
+                    src="/img/img-cafeteria/bolsaCafe500grs.jpeg"
+                    alt="image"
+                  />
+                  <div className="item-img-overlay"></div>
+                </a>
               </div>
               <div className="cont">
                 <h5>Bolsa de 500 gramos</h5>
                 <span className="tags main-color custom-font">
-                  <Link href="/works/works-dark">Café a granel</Link>,
-                  <Link href="/works/works-dark">$220 MXN</Link>
+                  <Link href="/">Café a granel</Link>,
+                  <Link href="/">$220 MXN</Link>
                 </span>
               </div>
             </div>
@@ -107,21 +100,19 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
-                  <a className="imago wow">
-                    <img
-                      src="/img/img-cafeteria/bolsacafe250grs.webp"
-                      alt="image"
-                    />
-                    <div className="item-img-overlay"></div>
-                  </a>
-                </Link>
+                <a className="imago wow">
+                  <img
+                    src="/img/img-cafeteria/bolsacafe250grs.webp"
+                    alt="image"
+                  />
+                  <div className="item-img-overlay"></div>
+                </a>
               </div>
               <div className="cont">
                 <h5>Bolsa de 250 gramos</h5>
                 <span className="tags main-color custom-font">
-                  <Link href="/works/works-dark">Café a granel</Link>,
-                  <Link href="/works/works-dark">$140 MXN</Link>
+                  <Link href="/">Café a granel</Link>,
+                  <Link href="/">$140 MXN</Link>
                 </span>
               </div>
             </div>
@@ -131,21 +122,19 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
-                  <a className="imago wow">
-                    <img
-                      src="/img/img-cafeteria/cafeterafrancesa.webp"
-                      alt="image"
-                    />
-                    <div className="item-img-overlay"></div>
-                  </a>
-                </Link>
+                <a className="imago wow">
+                  <img
+                    src="/img/img-cafeteria/cafeterafrancesa.webp"
+                    alt="image"
+                  />
+                  <div className="item-img-overlay"></div>
+                </a>
               </div>
               <div className="cont">
                 <h5>Cafetera Francesa</h5>
                 <span className="tags main-color custom-font">
-                  <Link href="/works/works-dark">Cafeteras</Link>,
-                  <Link href="/works/works-dark">$1200 MXN</Link>
+                  <Link href="/">Cafeteras</Link>,
+                  <Link href="/">$1200 MXN</Link>
                 </span>
               </div>
             </div>
@@ -155,21 +144,19 @@ const WorksStyle5 = () => {
               data-wow-delay=".4s"
             >
               <div className="item-img">
-                <Link href={`/project-details2/project-details2-dark`}>
-                  <a className="imago wow">
-                    <img
-                      src="/img/img-cafeteria/cafeteraitaliana.jpeg"
-                      alt="image"
-                    />
-                    <div className="item-img-overlay"></div>
-                  </a>
-                </Link>
+                <a className="imago wow">
+                  <img
+                    src="/img/img-cafeteria/cafeteraitaliana.jpeg"
+                    alt="image"
+                  />
+                  <div className="item-img-overlay"></div>
+                </a>
               </div>
               <div className="cont">
                 <h5>Cafetera Italiana</h5>
                 <span className="tags main-color custom-font">
-                  <Link href="/works/works-dark">Cafeteras</Link>,
-                  <Link href="/works/works-dark">$1600 MXN</Link>
+                  <Link href="/">Cafeteras</Link>,
+                  <Link href="/">$1600 MXN</Link>
                 </span>
               </div>
             </div>
